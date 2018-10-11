@@ -1,11 +1,14 @@
 ![syphos](https://github.com/Cryptix720/syphos/blob/master/logo.png)
+
+
+
 #Syphos
 
 Syphos template manager configure properties  and supports all kinds of file formats.
 
 
 
-##Simple install
+## Simple install
 
 To install all the dependencies:
   npm install --save-dev syphos 
@@ -17,4 +20,4 @@ To run the sample:
   
   
   
-##Feel free to contribute
+## Feel free to contribute
