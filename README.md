@@ -1,4 +1,5 @@
 ![syphos](https://github.com/Cryptix720/syphos/blob/master/logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCryptix720%2Fsyphos.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FCryptix720%2Fsyphos?ref=badge_shield)
 
 
 
@@ -21,3 +22,7 @@ To run the sample:
   
   
 ## Feel free to contribute
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCryptix720%2Fsyphos.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FCryptix720%2Fsyphos?ref=badge_large)
